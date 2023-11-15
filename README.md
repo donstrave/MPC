@@ -1,13 +1,7 @@
 # MPC
 
 <head>
-  <style>
-    img {
-      max-width: 30%;
-      height: auto;
-      margin: 5px;
-    }
-  </style>
+
 </head>
 
 <body>
