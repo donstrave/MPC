@@ -1,6 +1,12 @@
 # MPC
-<figure class="half">  <a href="link"><img src="![image](https://github.com/donstrave/MPC/assets/97787858/9fae904d-3ee8-4745-b89b-987d145e1405)
-"></a>  <a href="link"><img src="![image](https://github.com/donstrave/MPC/assets/97787858/629ef0cc-7748-47d0-8918-5264978abb22)
-"></a>  <figcaption>2개이미지.</figcaption></figure>
-출처: https://0soo.tistory.com/227 [Lifealong:티스토리]
+
+<p align="center">
+  <img src="![image](https://github.com/donstrave/MPC/assets/97787858/728acc05-50fc-413a-a93d-dff1cccc3891)
+" align="center" width="32%">
+  <img src="![image](https://github.com/donstrave/MPC/assets/97787858/1190fac5-8262-4ca5-b698-9f999694fac5)
+" align="center" width="32%">
+  <img src="![image](https://github.com/donstrave/MPC/assets/97787858/92765261-8b43-40fc-a4f5-cdf395b86973)
+" align="center" width="32%">
+  <figcaption align="center">3개 이미지 띄우기</figcaption>
+</p>
 
