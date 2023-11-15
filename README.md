@@ -7,6 +7,6 @@
 " align="center" width="32%">
   <img src="![image](https://github.com/donstrave/MPC/assets/97787858/92765261-8b43-40fc-a4f5-cdf395b86973)
 " align="center" width="32%">
-  <figcaption align="center">3개 이미지 띄우기</figcaption>
+  <figcaption align="center"></figcaption>
 </p>
 
