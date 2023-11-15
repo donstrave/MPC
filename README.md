@@ -1,9 +1,10 @@
 # MPC
-<div>
-reference
-![image](https://github.com/donstrave/MPC/assets/97787858/a1ffd337-e986-4a0d-afe8-9380dda92ebf)
-N_p = 10
-![image](https://github.com/donstrave/MPC/assets/97787858/a770e0ce-b038-4548-9e6f-1db91fe7ff67)
-N_p = 20
-![image](https://github.com/donstrave/MPC/assets/97787858/56effd1e-712c-4432-8e82-d86ff2260560)
-</div>div>
+<p align="center">  
+<img src="![image](https://github.com/donstrave/MPC/assets/97787858/572b1132-f22d-4c81-8c93-87f9e65dc594)
+" align="center" width="32%">  
+<img src="![image](https://github.com/donstrave/MPC/assets/97787858/286a22b7-7188-4699-8120-a9f9c6acd301)
+" align="center" width="32%">  
+<img src="![image](https://github.com/donstrave/MPC/assets/97787858/c3489448-46b4-4de6-90bd-c5b67be80425)
+" align="center" width="32%">  
+<figcaption align="center">3개 이미지 띄우기</figcaption></p>
+
