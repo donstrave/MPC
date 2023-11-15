@@ -1,7 +1,10 @@
 # MPC
-<img src="![image](https://github.com/donstrave/MPC/assets/97787858/40164615-d79a-4804-8ac4-82fd1336b136)
-" alt="Image 1">
-<img src="![image](https://github.com/donstrave/MPC/assets/97787858/67333096-a98d-4d3c-9132-9031c7a0bad4)
-" alt="Image 2">
-<img src="![image](https://github.com/donstrave/MPC/assets/97787858/78706dbe-9a9d-4a63-a724-666db380842f)
-" alt="Image 3">
+
+<p align="center">
+  <img src="![image](https://github.com/donstrave/MPC/assets/97787858/7d335cdf-dcaa-49fb-9fe6-0f5f0e77474d)
+" alt="Image 1" width="30%">
+  <img src="![image](https://github.com/donstrave/MPC/assets/97787858/349d9adb-f21b-4e3c-89ee-7fba80751253)
+" alt="Image 2" width="30%">
+  <img src="![image](https://github.com/donstrave/MPC/assets/97787858/139bc939-b844-4564-b4c2-c950a40400fb)
+" alt="Image 3" width="30%">
+</p>
